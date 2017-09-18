@@ -31,11 +31,11 @@ Well , I imagin that test should rescpect this conventions:
 
 * when Men Is Rich And HandSome And Woman Is Beautiful Then Get Leid.
 * when Men Is Rich And Not HandSome And Woman Is Beautiful AndWhoreAcceptProposal_Then Get Leid.
-* when Men Is Rich And Not HandSome And Woman Is Beautiful Not A Whore But Accept First Date Sex Proposal Then Not Get Leid.
-* when Men Is Not Rich And HandSome And Woman Is Beautiful Not A Whore But Accept First Date Sex Proposal Then Get Leid.
-* when Men Is Not Rich And HandSome And Woman Is Not Beautiful But A Whore But Accept First Date Sex Proposal Then Get Leid.
-* when Men Is Not Rich And Not HandSome And Woman Is Not Beautiful But A Whore But AcceptFirstDateSexProposal Then Get Leid.
-* when Men Is Not Rich And HandSome And Drunk And Woman Is Not Beautiful And Not A Whore But Accept First Date Sex Proposal Then Get Leid.
+* when Men Is Rich And Not HandSome And Woman Is Beautiful Not A Whore But Accept First Date Sex Proposal Then Not Get Laid.
+* when Men Is Not Rich And HandSome And Woman Is Beautiful Not A Whore But Accept First Date Sex Proposal Then Get Laid.
+* when Men Is Not Rich And HandSome And Woman Is Not Beautiful But A Whore But Accept First Date Sex Proposal Then Get Laid.
+* when Men Is Not Rich And Not HandSome And Woman Is Not Beautiful But A Whore But AcceptFirstDateSexProposal Then Get Laid.
+* when Men Is Not Rich And HandSome And Drunk And Woman Is Not Beautiful And Not A Whore But Accept First Date Sex Proposal Then Get Laid.
      
 
 ### enjoy doing TDD!!
