@@ -7,7 +7,7 @@
 ## What is about this Kata
 
 I'm trying to improve some joke code ( but use too much ifs and else) using TDD technique, about how relations changes and posibilities about
-been with a girl with some basic aspects of men and women.cd
+been with a girl with some basic aspects of men and women.
 
 So you can enjoy reading some test and if you want ask me for PR to improve this (I repeat , it's a JOKE!!) algorithm
 
@@ -25,9 +25,9 @@ And woman like :
 * acceptFirstDateSex
 * isWhore;
 
-So a consequence would be that man/woman get Leid or man just fap.
+So consequences would be that man/woman get Laid or man just fap.
 
-Well , I imagin that test should rescpect this conventions:
+Well , I imagine that test should be:
 
 * when Men Is Rich And HandSome And Woman Is Beautiful Then Get Leid.
 * when Men Is Rich And Not HandSome And Woman Is Beautiful AndWhoreAcceptProposal_Then Get Leid.
